@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://z2chaos.github.io</id>
+    <title></title>
+    <updated>2022-08-28T14:16:45.667Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://z2chaos.github.io"/>
+    <link rel="self" href="https://z2chaos.github.io/atom.xml"/>
+    <subtitle>星辰大海</subtitle>
+    <logo>https://z2chaos.github.io/images/avatar.png</logo>
+    <icon>https://z2chaos.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, </rights>
+    <entry>
+        <title type="html"><![CDATA[Hello World]]></title>
+        <id>https://z2chaos.github.io/post/hello-world/</id>
+        <link href="https://z2chaos.github.io/post/hello-world/">
+        </link>
+        <updated>2022-08-28T08:16:03.000Z</updated>
+    </entry>
+</feed>
